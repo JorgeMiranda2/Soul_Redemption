@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 43: expected 'image_name_component' not found.
+    hide scene city_night
+        ^
+
+Ren'Py Version: Ren'Py 8.2.0.24012702
+Mon Mar 11 19:14:04 2024
